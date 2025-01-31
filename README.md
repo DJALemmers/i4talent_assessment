@@ -49,10 +49,10 @@ Open en voer main.ipynb notebook uit om de data te verkennen en het model te ont
 2. Flask-applicatie
 
 Start de Flask-applicatie met:
-``` bash
-python final_app.py
+   ``` bash
+   python final_app.py
 
-De API kan dan lokaal benaderd worden, voor voorbeeld zie `Flask_test.ipynb`
+De API kan dan lokaal benaderd worden, voor een voorbeeld zie `Flask_test.ipynb`
 
 ## Depedencies
 
