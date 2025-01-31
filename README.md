@@ -8,8 +8,6 @@ Deze repository bevat de oplossing voor de i4talent-assessment.
 - [Bestandsstructuur](#bestandsstructuur)  
 - [Installatie](#installatie)  
 - [Gebruik](#gebruik)  
-- [Dependencies](#depedencies)  
-
 
 ## Projectoverzicht
 
@@ -49,18 +47,8 @@ Open en voer main.ipynb notebook uit om de data te verkennen en het model te ont
 2. Flask-applicatie
 
 Start de Flask-applicatie met:
-   ``` bash
+   ```bash
    python final_app.py
-
+   ```
 De API kan dan lokaal benaderd worden, voor een voorbeeld zie `Flask_test.ipynb`
-
-## Depedencies
-
-Het project maakt gebruik van verschillende Python-packages die vermeld staan in requirements.txt.
-Belangrijke dependencies zijn onder andere:
-
-    Flask
-    Pandas
-    Scikit-learn
-    Jupyter
 
