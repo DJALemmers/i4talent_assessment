@@ -52,3 +52,5 @@ Start de Flask-applicatie met:
    ```
 De API kan dan lokaal benaderd worden, voor een voorbeeld zie `Flask_test.ipynb`
 
+De input van de API vereist een werknemerID, geboortedatum en lengte_dienst (hoe lang de medewerker in dienst is).
+De output van de API is de 95% CI van het aantal medewerkers dat vertrekt (als compute_ci == True) of alleen de verwachte aantal vertrokken medewerkers.
